@@ -222,7 +222,7 @@ int main(int argc, char **argv) {
 			}
 				
 			memcpy(state, buf + sizeof(header), sizeof(state));
-	    }
+		}
 	}
 
   return 0;
