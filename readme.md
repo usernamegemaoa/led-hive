@@ -21,6 +21,9 @@ Some pictures:
 - <http://frupic.frubar.net/30033>
 
 
+## Circuit
+
+- <http://frupic.frubar.net/shots/30040.jpg>
 
 ## LHC
 
